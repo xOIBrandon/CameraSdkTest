@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sdk-ios-release",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xoeye/sdk-ios-release",
+      "state" : {
+        "revision" : "079cea245edbe4a940ba732475d8b3e359119cad",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
